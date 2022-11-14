@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **Python, Node, React**
 
-- 👨‍💻 All of my projects are available at [github.com/mwtheusz/](github.com/mwtheusz/)
+- 👨‍💻 All of my projects are available at [github.com/calebhphp/](github.com/calebhphp/)
 
 - 💬 Ask me about **Laravel, PHP, Mysql**
 
 - 📫 How to reach me **matheusvillanova1@gmail.com**
 
-- ⚡ Fun fact **League of Legends platinum player**
+- ⚡ Fun fact **best minecraft builder you will ever meet**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
