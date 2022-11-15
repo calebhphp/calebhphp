@@ -1,4 +1,3 @@
-<img align="center" src="user-images.githubusercontent.com/98963865/201798275-6bd25647-ff90-4bd9-82d9-9b1ebec715e8.png" alt="mwtheusphp" />
 
 
 <h1 align="center">Hi 👋, I'm Calebh</h1>
