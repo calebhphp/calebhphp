@@ -19,6 +19,7 @@
 
 - ⚡ Fun fact **best minecraft builder you will ever meet**
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=matheusvillanova11&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=matheusvillanova11&redirect=true)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mwtheusphp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mwtheusphp" height="30" width="40" /></a>
