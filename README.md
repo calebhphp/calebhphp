@@ -1,6 +1,6 @@
 <div style="display: flex; and align-items: center; justify-content: center">
-![image](https://user-images.githubusercontent.com/98963865/201798275-6bd25647-ff90-4bd9-82d9-9b1ebec715e8.png)
-    </div>
+<img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg](https://user-images.githubusercontent.com/98963865/201798275-6bd25647-ff90-4bd9-82d9-9b1ebec715e8.png)" alt="mwtheusphp" height="30" width="40" />
+</div>
 
 <h1 align="center">Hi 👋, I'm Calebh</h1>
 <h3 align="center">A passionate FullStack developer from Brasil</h3>
