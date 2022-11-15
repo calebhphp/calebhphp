@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Calebh</h1>
 <h3 align="center">A passionate FullStack developer from Brasil</h3>
 
-- 🔭 I’m currently working on [Picalike's website](picalike.com)
+- 🔭 I’m currently working on [Picalike GmbH](picalike.com)
 
 - 🌱 I’m currently learning **Python, Node, React**
 
