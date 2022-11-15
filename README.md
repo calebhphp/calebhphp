@@ -13,6 +13,10 @@
 
 - 📫 How to reach me **matheusvillanova1@gmail.com**
 
+- 🗣️ I speak Portuguese (native) and English (advanced)
+
+- 📖 Studying french
+
 - ⚡ Fun fact **best minecraft builder you will ever meet**
 
 <h3 align="left">Connect with me:</h3>
