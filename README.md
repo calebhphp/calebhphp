@@ -1,5 +1,5 @@
 <div style="display: flex; and align-items: center; justify-content: center">
-<img align="center" src="https://user-images.githubusercontent.com/98963865/201798275-6bd25647-ff90-4bd9-82d9-9b1ebec715e8.png)" alt="mwtheusphp" height="30" width="40" />
+<img align="center" src="user-images.githubusercontent.com/98963865/201798275-6bd25647-ff90-4bd9-82d9-9b1ebec715e8.png" alt="mwtheusphp" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Calebh</h1>
